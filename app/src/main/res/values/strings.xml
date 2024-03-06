@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Computing Demo Lab 03</string>
+    <string name="welcome_to_bmi_calculator">Welcome to BMI calculator</string>
+    <string name="input_your_height_in_cm">Input your height in cm</string>
+    <string name="input_your_weight_in_kg">Input your weight in kg</string>
+    <string name="calculate">Calculate</string>
+</resources>
